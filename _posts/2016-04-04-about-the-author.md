@@ -7,4 +7,4 @@ tags: [documentation,sample]
 image: thoughts.jpg
 ---
 
-Click on the links below to read my articles.  
+Click [here](https://drive.google.com/drive/folders/1RLCGBkqQPsREKHfgqV-SJbRrNePGwnIE?usp=sharing) to read my articles.  
