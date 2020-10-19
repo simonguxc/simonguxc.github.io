@@ -7,5 +7,5 @@ tags: [sample]
 image: film-critique.jpg
 ---
 
-Click on the links below to read my two film critiques.  
+Click [here](https://drive.google.com/drive/folders/1Rxkz-aIiCn4ZBRaqGBxGeOW-MkNVhwQq?usp=sharing) to read my two film critiques.  
 
