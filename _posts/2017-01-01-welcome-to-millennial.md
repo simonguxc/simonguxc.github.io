@@ -9,7 +9,7 @@ image: photography.jpg
 
 Click on the links below to access my albums!  
 
-![Shanghai Lanes](shanghai-lanes.jpg)  
+![Shanghai Lanes](../assets/img/shanghai-lanes.jpg)  
   
 [Shanghai Lanes](https://photos.app.goo.gl/bRmubGPFA8RF9iWs7)  
 
