@@ -4,7 +4,6 @@ title: "Photography"
 author: "Simon Gu"
 categories: documentation
 tags: [documentation,sample]
-image: photography.jpg
 ---
 
 Click on the links below to access my albums!  
