@@ -4,6 +4,7 @@ title: "Documentary"
 author: "Simon Gu"
 categories: documentation
 tags: [documentation,sample]
+image: documentary.jpg
 ---
   
 ![Awards](../assets/img/awards.jpg)  
