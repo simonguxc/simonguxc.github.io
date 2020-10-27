@@ -62,4 +62,14 @@ Click on the links below to access my albums!
   <object data="https://lh3.googleusercontent.com/XRsG89OKxo-KSbyG_R52PmAe5uvaQmqD07usAOmh2EOYB1S5Fxj4I6m_lbRp_79ZMMrwn5jzIX9_RPGb5OcyQBbBhimg92GU5-DhAJt9oHMie3AVwx2WI7HYO3yHOisthd7cbm6i=w1200-h1080"></object>
   <object data="https://lh3.googleusercontent.com/zJXlGKYtzMElDj3h5VotXBupGdLR8tkv1T7Qank9sB1MWVRqJ618dPk6HYwhPWoZYgCLwDw1Ss1hdfgguUvXmA1P5ntoJA5oe3Lfsh-bWlBBrMUPwa4nFQifWMAm31ynzAAYPzCK=w1200-h1080"></object>
 </div>
-
+  
+<table style="width: 640;">
+<tbody>
+<tr>
+<td style="height: 120px;" align="center"><a href="https://photos.app.goo.gl/bRmubGPFA8RF9iWs7" target="_blank"><img style="margin: 1px 0 0 4px;" src="https://github.com/simonguxc/simonguxc.github.io/raw/gh-pages/assets/img/shanghai-lanes.jpg" alt="" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center; font-size: 11px;"><a style="font-weight: bold; text-decoration: none;" href="https://photos.app.goo.gl/bRmubGPFA8RF9iWs7" target="_blank" >Shanghai Lanes</a></td>
+</tr>
+</tbody>
+</table>
